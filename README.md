@@ -1,0 +1,1 @@
+# sfguide-getting-started-with-github-copilot-mcp-server-and-snowflake-cortex-vs-code
