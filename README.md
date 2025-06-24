@@ -1,1 +1,2 @@
-# sfguide-getting-started-with-github-copilot-mcp-server-and-snowflake-cortex-vs-code
+# Using GitHub Copilot, MCP Server, and Snowflake Cortex AI in VS Code
+
